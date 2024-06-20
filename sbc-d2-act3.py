@@ -6,9 +6,9 @@ num2 = int(input("ENTER SECOND NUMBER: "))
 num3 = int(input("ENTER THIRD NUMBER: "))
 
 
-gen1 = randint(0, 5)
-gen2 = randint(0, 5)
-gen3 = randint(0, 5)
+gen1 = randint(0, 9)
+gen2 = randint(0, 9)
+gen3 = randint(0, 9)
 
 
 print(f"USER INPUT: {num1} {num2} {num3}")
